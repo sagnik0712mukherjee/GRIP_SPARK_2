@@ -1,0 +1,7 @@
+pandas
+matplotlib
+preprocessing
+LabelEncoder
+sklearn
+tree
+DecisionTreeClassifier
